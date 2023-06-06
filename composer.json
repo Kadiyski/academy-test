@@ -1,0 +1,18 @@
+{
+    "name": "kadiiski/academy-test",
+    "description": "This is just an example project for academy.",
+    "require": {
+        "gargron/fileupload": "^1.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kadiiski\\AcademyTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kadiiski",
+            "email": "kadiiski94@gmail.com"
+        }
+    ]
+}
